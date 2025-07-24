@@ -24,10 +24,7 @@ def main():
         logging.info(f"Current scenario name: {scenarios[current]['name']}")
         logging.info(f"Current scenarioId: {scenarios[current]['scenarioId']}")
 
-        if current == -1:
-            current = len(scenarios) - 1
-
-        if current >= len(scenarios) - 1:
+        if current < 0 or current >= len(scenarios) - 1:
             current = 0
 
         new = current + 1
