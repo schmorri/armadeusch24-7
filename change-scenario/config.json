@@ -1,0 +1,29 @@
+{
+    "current": -1,
+    "scenarios": [
+        {
+            "name": "Conflict - Everon",
+            "scenarioId": "{ECC61978EDCC2B5A}Missions/23_Campaign.conf"
+        },
+        {
+            "name": "Conflict - Northern Everon",
+            "scenarioId": "{C700DB41F0C546E1}Missions/23_Campaign_NorthCentral.conf"
+        },
+        {
+            "name": "Conflict - Southern Everon",
+            "scenarioId": "{28802845ADA64D52}Missions/23_Campaign_SWCoast.conf"
+        },
+        {
+            "name": "Conflict - Western Everon",
+            "scenarioId": "{94992A3D7CE4FF8A}Missions/23_Campaign_Western.conf"
+        },
+        {
+            "name": "Conflict - Montignac",
+            "scenarioId": "{FDE33AFE2ED7875B}Missions/23_Campaign_Montignac.conf"
+        },
+        {
+            "name": "Conflict - Arland",
+            "scenarioId": "{C41618FD18E9D714}Missions/23_Campaign_Arland.conf"
+        }
+    ]
+}
